@@ -33,12 +33,6 @@ class _SeleccionadosState extends State<Seleccionados> {
       }
     );
   }
-
-  /*_construirBase(){
-    return Center(
-      child:Text('Sin  datos seleccionados')
-    );
-  }*/
   @override
   Widget build(BuildContext context) {
     return SafeArea(

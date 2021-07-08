@@ -1,6 +1,5 @@
 import 'package:btn_colores/src/bloc/select/select_bloc.dart';
 import 'package:btn_colores/src/bloc/select/select_event.dart';
-import 'package:btn_colores/src/models/item_model_select.dart';
 import 'package:btn_colores/src/ui/deportes/deportes.dart';
 import 'package:btn_colores/src/ui/interes/interes.dart';
 import 'package:btn_colores/src/ui/otro/otro.dart';

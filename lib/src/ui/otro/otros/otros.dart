@@ -2,7 +2,6 @@ import 'package:btn_colores/src/bloc/select/select_bloc.dart';
 import 'package:btn_colores/src/bloc/select/select_event.dart';
 import 'package:btn_colores/src/models/item_model_select.dart';
 import 'package:flutter/material.dart';
-//import 'package:multi_select_item/multi_select_item.dart';
 
 class Otros extends StatefulWidget {
   const Otros({ Key? key }) : super(key: key);
@@ -14,7 +13,6 @@ class Otros extends StatefulWidget {
 class _OtrosState extends State<Otros> {
   SelectBloc _selectBloc = SelectBloc();
   bool _status  = true;
-  //List<Map<String, dynamic>> stats = [];
   List<ItemModel> model = [];
   @override
   void initState(){
